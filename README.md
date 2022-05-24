@@ -43,5 +43,5 @@ O Marvel Comics é um projeto que busca os quadrinhos da api da marvel, mostra e
 
 Para instalar as dependências no front-end:
 > npm install
-Para iniciar a aplicação no front-end e no back-end:
+Para iniciar a aplicação no front-end:
 > npm run dev
