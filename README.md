@@ -21,7 +21,7 @@
   <img alt="BeTheHero" src=".github/personagens_marvel2.png" width="100%">
 </p>
 
-## :rocket: Tecnologias
+## :tecnologias: Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
