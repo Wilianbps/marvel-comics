@@ -1,10 +1,10 @@
 # marvel-comics
 <h1 align="center">
-    <img alt="Marvel" title="#Marvel" src="/.github/betheher1.svg" width="200px" />
+    <img alt="Marvel" title="#Marvel" src="/.github/Marvel_Logo.svg" width="200px" />
 </h1>
 
 <h4 align="center">
-  🚀 Marvel Comics
+  Marvel Comics
 </h4>
 
 
@@ -18,7 +18,7 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/betherehero_app.PNG" width="100%">
+  <img alt="BeTheHero" src=".github/personagens_marvel2.png" width="100%">
 </p>
 
 ## :rocket: Tecnologias
