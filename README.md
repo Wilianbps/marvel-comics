@@ -11,7 +11,6 @@
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Configuração</a>
 </p>
 
@@ -37,11 +36,6 @@ O Marvel Comics é um projeto que busca os quadrinhos da api da marvel, mostra e
 - modal com informações detalhadas de cada quadrinho
 - funcionalidade de selecionar cada quadrinho
 - mostrar modal dos quadrinhos selecionados
-
-## 🔖 Layout
-
-Você pode visualizar o layout do projeto no formato através [desse link](https://www.figma.com/file/2C2yvw7jsCOGmaNUDftX9n/Be-The-Hero---OmniStack-11?node-id=37%3A394). Lembrando que você irá precisar ter uma conta no [Figma](http://figma.com/).
-
 
 ## ⚙ Configuração
 
