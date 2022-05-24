@@ -18,10 +18,10 @@
 <br>
 
 <p align="center">
-  <img alt="BeTheHero" src=".github/personagens_marvel2.png" width="100%">
+  <img alt="Marvel Comics" src=".github/personagens_marvel2.png" width="100%">
 </p>
 
-## :tecnologias: Tecnologias
+## : Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
